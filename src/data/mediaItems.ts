@@ -14,10 +14,10 @@ export const mediaItems: MediaItem[] = [
   {
     id: "2",
     type: "video",
-    title: "Development Planning in Digital Era",
-    description: "Keynote presentation on integrated development planning",
+    title: "Professional Presentation",
+    description: "Video presentation on Accelerating an inclusive digital economy in Africa",
     thumbnailUrl: "/images/digital-planning.jpg",
-    mediaUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ", // Replace with your actual YouTube video ID
+    mediaUrl: "https://www.youtube.com/embed/jX1dIS34pY8",
     date: "2024-02-20",
     category: "Presentations"
   },
