@@ -17,7 +17,7 @@ export const mediaItems: MediaItem[] = [
     title: "Professional Presentation",
     description: "Video presentation on Accelerating an inclusive digital economy in Africa",
     thumbnailUrl: "/images/digital-planning.jpg",
-    mediaUrl: "https://www.youtube.com/embed/jX1dIS34pY8",
+    mediaUrl: "https://www.youtube.com/embed/jX1dlS34pY8",
     date: "2024-02-20",
     category: "Presentations"
   },
