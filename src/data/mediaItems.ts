@@ -3,7 +3,7 @@ import { MediaItem } from "../types";
 export const mediaItems: MediaItem[] = [
   {
     id: "1",
-    type: "image",
+    type: "video",
     title: "Training on Digital Planning",
     description: "Training of officials of Zambia\s line ministries on the Integrated Planning and Reporting Tool (IPRT)",
     thumbnailUrl: "/images/digital-planning.jpg",
