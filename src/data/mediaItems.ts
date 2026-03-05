@@ -7,7 +7,7 @@ export const mediaItems: MediaItem[] = [
     title: "Training on Digital Planning",
     description: "Training of officials of Zambia\'s line ministries on the Integrated Planning and Reporting Tool (IPRT)",
     thumbnailUrl: "/images/digital-planning.jpg",
-    mediaUrl: "https://www.youtube.com/watch?v=z7RiKWovHSk&pp=ygURYmFydGhvbG9tZXcgYXJtYWg%3D",
+    mediaUrl: "https://www.youtube.com/embed/OZU2tWoiGhE?si=NoIczSr8XhOzEF5J", 
     date: "2021-01-16",
     category: "Training"
   },
