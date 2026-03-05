@@ -4,12 +4,12 @@ export const mediaItems: MediaItem[] = [
   {
     id: "1",
     type: "image",
-    title: "Climate Finance Summit 2024",
-    description: "Speaking at the International Climate Finance Summit",
-    thumbnailUrl: "/images/climate-financing.jpg",
-    mediaUrl: "/images/climate-financing.jpg",
-    date: "2024-03-15",
-    category: "Events"
+    title: "Training on Digital Planning",
+    description: "Training of officials of Zambia\s line ministries on the Integrated Planning and Reporting Tool (IPRT)",
+    thumbnailUrl: "/images/digital-planning.jpg",
+    mediaUrl: "https://youtu.be/CiVSryhmYZs",
+    date: "2021-01-16",
+    category: "Training"
   },
   {
     id: "2",
