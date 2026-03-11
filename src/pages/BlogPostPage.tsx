@@ -87,12 +87,10 @@ function BlogPostPage() {
         </header>
 
         {/* Post Content */}
-        <div className="prose prose-lg max-w-none">
-          <div 
-            className="text-gray-700 leading-relaxed"
-            dangerouslySetInnerHTML={{ __html: post.content }}
-          />
-        </div>
+        <div 
+          className="prose prose-lg max-w-none blog-content"
+          dangerouslySetInnerHTML={{ __html: post.content }}
+        />
 
         {/* Back Button at Bottom */}
         <div className="mt-12 pt-8 border-t border-gray-200">
