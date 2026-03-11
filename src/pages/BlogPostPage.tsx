@@ -90,10 +90,8 @@ function BlogPostPage() {
         <div className="prose prose-lg max-w-none">
           <div 
             className="text-gray-700 leading-relaxed"
-            style={{ whiteSpace: 'pre-wrap' }}
-          >
-            {post.content}
-          </div>
+            dangerouslySetInnerHTML={{ __html: post.content }}
+          />
         </div>
 
         {/* Back Button at Bottom */}
