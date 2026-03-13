@@ -1,7 +1,7 @@
 import { BlogPost } from '../types'
 
 export const blogPosts: BlogPost[] = [
- 
+  
   {
     id: 'macro-economic-impacts-of-geopolitical-tensions-on-africa',
     title: 'Impact of Geopolitcal Tensions on Africa',
@@ -89,13 +89,13 @@ export const blogPosts: BlogPost[] = [
     `
   },
   {
-    id: 'macro-economic-impacts-of-geopolitical-tensions-on-africa',
-    title: 'Impact of Geopolitcal Tensions on Africa',
-    excerpt: 'How the US-Iran War Is Reshaping the Continent\'s Future',
-    date: '2026-03-10',
+    id: 'sectoral-impacts-us-iran-war-africa',
+    title: 'Sectoral Impacts of the US-Iran War on Africa',
+    excerpt: 'How the conflict is reshaping Africa\'s aviation, tourism, and trade sectors',
+    date: '2026-03-11',
     author: 'Prof. Bartholomew Armah PhD',
-    imageUrl: '/images/blog-iran-conflict.jpg',
-    tags: ['Macroeconomics', 'Trade', 'Cost of Capital', 'Currency Depreciation', 'Capital Flight'],
+    imageUrl: '/images/blog-iran-conflict2.jpg',
+    tags: ['Aviation', 'Tourism', 'AfCFTA', 'Trade', 'Infrastructure'],
         content: `
     <h1><strong>Sectoral impacts of the US-Iran War</strong></h1>
 <h2>Impact on Africa's Airline Industry: Crisis as Catalyst</h2>
