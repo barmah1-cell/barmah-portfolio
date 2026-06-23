@@ -23,6 +23,13 @@ dist-ssr
 *.sln
 *.sw?
 
+# Large files - installers and executables
+*.exe
+*.msi
+*.dmg
+*.pkg
+Git/
+
 # Large installer files - never commit these
 *.exe
 *.msi
