@@ -15,7 +15,7 @@ function HeroSection({ headline, ctaText, onCtaClick }: HeroSectionProps) {
         {/* Profile Picture */}
         <div className="mb-8">
           <img
-            src="/images/hero.bg.jpg"
+            src="/images/hero-bg.jpg"
             alt="Prof. Bartholomew Armah PhD"
             className="w-40 h-40 md:w-48 md:h-48 rounded-full mx-auto object-cover border-4 border-accent-gold shadow-lg"
           />
